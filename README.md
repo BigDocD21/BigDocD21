@@ -2,7 +2,7 @@
 
 Автор: Дмитрий Варченко
 Программа: «Инженер по тестированию: от нуля до автоматизатора»
-Контакты: +7 931 713-25-33 | varchenko.dmitriy@bk.ru
+Контакты: +7 931 713-25-33
 Портфолио: https://drive.google.com/drive/folders/1CK8p7GQ5leSyYhZq5SyFMhtymqTcfpeZ
 
 О проекте
